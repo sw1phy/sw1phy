@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img src="https://media.tenor.com/EtdcSPNMvvQAAAAi/furina-genshin-impact.gif" alt="Banner"></a>
+  <a href=""><img src="https://i.pinimg.com/originals/41/af/2d/41af2d3c2bf95a66718d354d438d432d.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/sw1qhy">Swiphy</a>!</h1>
