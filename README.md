@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img src="https://64.media.tumblr.com/8e08d0a70e01e447d9d86192cbe5a8da/8ce3c0f40501e72b-e8/s1280x1920/d6795bcf7aca396b6f3a905ef7f51b95267ddf61.gifv" alt="Banner"></a>
+  <a href=""><img src="https://64.media.tumblr.com/7a3941e3592386d9738599501040b6a3/8ce3c0f40501e72b-ea/s500x750/4ce2ab3d85511fc5e18aa9df0bd187b8153521d4.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/sw1qhy">Swiphy</a>!</h1>
