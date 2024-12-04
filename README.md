@@ -3,7 +3,7 @@
   <a href=""><img src="https://media.tenor.com/J-5u9vDR36EAAAAM/mika-misono-mika.gif" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://github.com/sw1qhy">Swiphy</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/sw1phy">Swiphy</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~</h1>
 
 
