@@ -1,6 +1,6 @@
 <p align="center">
    <!-- https://64.media.tumblr.com/7a3941e3592386d9738599501040b6a3/8ce3c0f40501e72b-ea/s500x750/4ce2ab3d85511fc5e18aa9df0bd187b8153521d4.gif -->
-   <a href=""><img src="https://tenor.com/es/view/tachyon-agnes-tachyon-uma-musume-umamusume-gif-15583427463307250624" alt="Banner"></a>
+   <a href=""><img src="https://media1.tenor.com/m/2EN0tp1-y8AAAAAd/tachyon-agnes-tachyon.gif" alt="Banner"></a>
   <a href=""><img src="https://media.tenor.com/J-5u9vDR36EAAAAM/mika-misono-mika.gif" alt="Banner"></a>
 </p>
 
